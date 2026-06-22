@@ -1,19 +1,16 @@
-TRABALHO FINAL – PCC557
-Tópicos em Inteligência Artificial e Otimização I
-
 Título:
-Detecção de Intrusões em IoT Baseada em Aprendizado Federado: Uma Avaliação Utilizando Múltiplos Conjuntos de Dados em Ambientes de Borda
+Detecção de Intrusões em Ambientes IoT: Uma Avaliação Experimental com Múltiplos Subconjuntos do Dataset ToN-IoT como Baseline para Aprendizado Federado
 
 Autor:
 Rafael Sebastião Galdino
 
-Professor:
-Gustavo Andrade do Vale
+Orientador:
+Demóstenes Zegarra Rodríguez
 
 CONTEÚDO DA PASTA
 
 Artigo.pdf
-Artigo científico desenvolvido para a disciplina.
+Artigo científico desenvolvido.
 
 PCC557_TON_IOT_EXPERIMENTOS.ipynb
 Notebook contendo todo o fluxo experimental utilizado no artigo.
